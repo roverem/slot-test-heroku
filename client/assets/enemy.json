@@ -1,0 +1,103 @@
+{"frames": {
+
+"skeleton_tile000.png":
+{
+	"frame": {"x":0,"y":0,"w":24,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":32},
+	"sourceSize": {"w":24,"h":32}
+},
+"skeleton_tile001.png":
+{
+	"frame": {"x":24,"y":0,"w":24,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":32},
+	"sourceSize": {"w":24,"h":32}
+},
+"skeleton_tile002.png":
+{
+	"frame": {"x":48,"y":0,"w":24,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":32},
+	"sourceSize": {"w":24,"h":32}
+},
+"skeleton_tile003.png":
+{
+	"frame": {"x":72,"y":0,"w":24,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":32},
+	"sourceSize": {"w":24,"h":32}
+},
+"skeleton_tile004.png":
+{
+	"frame": {"x":96,"y":0,"w":24,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":32},
+	"sourceSize": {"w":24,"h":32}
+},
+"skeleton_tile005.png":
+{
+	"frame": {"x":120,"y":0,"w":24,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":32},
+	"sourceSize": {"w":24,"h":32}
+},
+"skeleton_tile006.png":
+{
+	"frame": {"x":144,"y":0,"w":24,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":32},
+	"sourceSize": {"w":24,"h":32}
+},
+"skeleton_tile007.png":
+{
+	"frame": {"x":168,"y":0,"w":24,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":32},
+	"sourceSize": {"w":24,"h":32}
+},
+"skeleton_tile008.png":
+{
+	"frame": {"x":192,"y":0,"w":24,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":32},
+	"sourceSize": {"w":24,"h":32}
+},
+"skeleton_tile009.png":
+{
+	"frame": {"x":216,"y":0,"w":24,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":32},
+	"sourceSize": {"w":24,"h":32}
+},
+"skeleton_tile010.png":
+{
+	"frame": {"x":240,"y":0,"w":24,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":32},
+	"sourceSize": {"w":24,"h":32}
+}},
+"animations": {
+	"skeleton_tile": ["skeleton_tile000.png","skeleton_tile001.png","skeleton_tile002.png","skeleton_tile003.png","skeleton_tile004.png","skeleton_tile005.png","skeleton_tile006.png","skeleton_tile007.png","skeleton_tile008.png","skeleton_tile009.png","skeleton_tile010.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "enemy.png",
+	"format": "RGBA8888",
+	"size": {"w":264,"h":32},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:97260bd293ebab6f0ba4094535dd0f6f:11367080d1ee61358f33b6103625f2c2:a99356c10d69482e9bee53d25c3d05e1$"
+}
+}

@@ -1,0 +1,606 @@
+{"frames": {
+
+"Food-0.png":
+{
+	"frame": {"x":86,"y":285,"w":16,"h":15},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":16,"h":15},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-1.png":
+{
+	"frame": {"x":103,"y":289,"w":16,"h":15},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":16,"h":15},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-2.png":
+{
+	"frame": {"x":33,"y":267,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-3.png":
+{
+	"frame": {"x":69,"y":285,"w":15,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":15,"h":16},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-4.png":
+{
+	"frame": {"x":19,"y":326,"w":14,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":14,"h":16},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-5.png":
+{
+	"frame": {"x":70,"y":320,"w":16,"h":15},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":15},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-6.png":
+{
+	"frame": {"x":104,"y":322,"w":15,"h":15},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":15,"h":15},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-7.png":
+{
+	"frame": {"x":104,"y":339,"w":15,"h":15},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":15,"h":15},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-8.png":
+{
+	"frame": {"x":103,"y":253,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-9.png":
+{
+	"frame": {"x":103,"y":271,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-10.png":
+{
+	"frame": {"x":85,"y":1,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-11.png":
+{
+	"frame": {"x":1,"y":308,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-12.png":
+{
+	"frame": {"x":33,"y":249,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-13.png":
+{
+	"frame": {"x":85,"y":19,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-14.png":
+{
+	"frame": {"x":103,"y":1,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-15.png":
+{
+	"frame": {"x":35,"y":303,"w":16,"h":15},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":16,"h":15},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-16.png":
+{
+	"frame": {"x":103,"y":306,"w":16,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":16,"h":14},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-17.png":
+{
+	"frame": {"x":1,"y":326,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-18.png":
+{
+	"frame": {"x":1,"y":344,"w":12,"h":16},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":12,"h":16},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-19.png":
+{
+	"frame": {"x":35,"y":321,"w":16,"h":15},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":16,"h":15},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-20.png":
+{
+	"frame": {"x":51,"y":249,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-21.png":
+{
+	"frame": {"x":85,"y":37,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-22.png":
+{
+	"frame": {"x":85,"y":235,"w":12,"h":16},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":12,"h":16},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-23.png":
+{
+	"frame": {"x":37,"y":339,"w":16,"h":14},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":16,"h":14},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-24.png":
+{
+	"frame": {"x":103,"y":19,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-25.png":
+{
+	"frame": {"x":33,"y":285,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-26.png":
+{
+	"frame": {"x":51,"y":267,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-27.png":
+{
+	"frame": {"x":19,"y":344,"w":12,"h":16},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":12,"h":16},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-28.png":
+{
+	"frame": {"x":69,"y":249,"w":15,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":15,"h":16},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-29.png":
+{
+	"frame": {"x":69,"y":267,"w":15,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":15,"h":16},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-30.png":
+{
+	"frame": {"x":19,"y":308,"w":14,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":14,"h":16},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-31.png":
+{
+	"frame": {"x":86,"y":249,"w":15,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":15,"h":16},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-32.png":
+{
+	"frame": {"x":52,"y":303,"w":16,"h":15},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":16,"h":15},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-33.png":
+{
+	"frame": {"x":85,"y":55,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-34.png":
+{
+	"frame": {"x":103,"y":37,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-35.png":
+{
+	"frame": {"x":51,"y":285,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-36.png":
+{
+	"frame": {"x":85,"y":73,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-37.png":
+{
+	"frame": {"x":88,"y":322,"w":16,"h":14},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":16,"h":14},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-38.png":
+{
+	"frame": {"x":52,"y":320,"w":16,"h":15},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":16,"h":15},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-39.png":
+{
+	"frame": {"x":103,"y":55,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-40.png":
+{
+	"frame": {"x":85,"y":91,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-41.png":
+{
+	"frame": {"x":103,"y":73,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-42.png":
+{
+	"frame": {"x":85,"y":109,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-43.png":
+{
+	"frame": {"x":71,"y":337,"w":15,"h":15},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":15,"h":15},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-44.png":
+{
+	"frame": {"x":103,"y":91,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-45.png":
+{
+	"frame": {"x":70,"y":303,"w":16,"h":15},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":16,"h":15},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-46.png":
+{
+	"frame": {"x":85,"y":127,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-47.png":
+{
+	"frame": {"x":103,"y":109,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-48.png":
+{
+	"frame": {"x":85,"y":145,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-49.png":
+{
+	"frame": {"x":103,"y":127,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-50.png":
+{
+	"frame": {"x":85,"y":163,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-51.png":
+{
+	"frame": {"x":86,"y":267,"w":15,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":15,"h":16},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-52.png":
+{
+	"frame": {"x":88,"y":340,"w":16,"h":14},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":16,"h":14},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-53.png":
+{
+	"frame": {"x":103,"y":145,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-54.png":
+{
+	"frame": {"x":85,"y":181,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-55.png":
+{
+	"frame": {"x":103,"y":163,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-56.png":
+{
+	"frame": {"x":85,"y":199,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-57.png":
+{
+	"frame": {"x":88,"y":303,"w":16,"h":13},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":16,"h":13},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-58.png":
+{
+	"frame": {"x":103,"y":181,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-59.png":
+{
+	"frame": {"x":85,"y":217,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-60.png":
+{
+	"frame": {"x":103,"y":199,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-61.png":
+{
+	"frame": {"x":103,"y":217,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-62.png":
+{
+	"frame": {"x":53,"y":337,"w":16,"h":15},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":16,"h":15},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"Food-63.png":
+{
+	"frame": {"x":103,"y":235,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16},
+	"anchor": {"x":0,"y":0}
+},
+"handle.png":
+{
+	"frame": {"x":1,"y":249,"w":30,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":57},
+	"sourceSize": {"w":35,"h":57},
+	"anchor": {"x":0.114286,"y":0.859649}
+},
+"slot_holder_empty.png":
+{
+	"frame": {"x":1,"y":1,"w":246,"h":82},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":25,"w":246,"h":82},
+	"sourceSize": {"w":247,"h":149},
+	"anchor": {"x":0.959514,"y":0.322148}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "spritesheet.png",
+	"format": "RGBA8888",
+	"size": {"w":120,"h":357},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:25c69dd588cf846ab27c39899dc144fd:76ed998bf3613c7885e7d5ddf9add926:729adc6043343cfda41c447ce8f464d6$"
+}
+}
