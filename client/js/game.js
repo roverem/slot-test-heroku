@@ -102,11 +102,11 @@ export class Game{
 		this.assets.board.addChild(board_rect);
 		this.assets.board.addChild(board_rect_frame);
 		this.assets.board.x = 200;
-		this.assets.board.y = 100;
+		this.assets.board.y = -40;
 		
 		let mask = new PIXI.Graphics()
 			.beginFill(0xFF0000)
-			.drawRect(this.assets.board.x, 340, board_rect.width, board_rect.height)
+			.drawRect(this.assets.board.x, 200, board_rect.width, board_rect.height)
 			.endFill();
 		this.addToStage(mask);
 		this.assets.board.mask = mask;
@@ -120,7 +120,7 @@ export class Game{
 		//SPIN BUTTON
 		let spin_button = new PIXI.Container();
 		spin_button.x = 650;
-		spin_button.y = 250;
+		spin_button.y = 100;
 		
 		
 		spin_button.interactive = true;
@@ -155,7 +155,7 @@ export class Game{
 		
 		let prize_display = new PIXI.Container();
 		prize_display.x = 200;
-		prize_display.y = 200;
+		prize_display.y = 50;
 		let prize_frame = new PIXI.Graphics()
 			.beginFill(0xFF0000)
 			.drawRect(0, 0, 200, 100)
