@@ -19,13 +19,43 @@ export class Game{
 		this.server_data = {};
 	}
 	
+	preload_handler(loader, resource){
+		console.log("preloader", this.assets)
+		if (!this.assets.preload) {
+			
+			this.assets.preload = new PIXI.Container();
+			
+			this.assets.preload_button = new PIXI.Graphics()
+				.lineStyle(8,0x66CCFF, 1)
+				.beginFill(0xFFFF00, 0.8)
+				.drawRect(0, 0, 1600, 1200)
+				.endFill();
+			
+			this.assets.preload_text = new PIXI.Text("Cargando" + loader.progress.toString() + "%", {fontFamily: 'Arial', fontSize: 34, fill: 0xffffff, align: 'center'});
+			
+			this.assets.preload.addChild(this.assets.preload_button);
+			this.assets.preload.addChild(this.assets.preload_text);
+			
+			this.addToStage(this.assets.preload);
+			
+		}else{
+			this.assets.preload_text.text = "Cargando " + loader.progress.toString() + "%";
+			
+		}
+		
+		console.log("loading", resource.url);
+		
+		console.log("progress:", loader.progress, "%")
+	}
+	
 	setup(){
 		
 		document.body.appendChild(this.app.view);
 		
 		PIXI.Loader.shared
 			.add("assets/spritesheet.json")
-			.load(this.setup_assets.bind(this))
+			.on("progress", this.preload_handler.bind(this))
+			.load(this.setup_start.bind(this))
 			
 		
 		SOCKET.emit("user_request_initial_data");
@@ -36,6 +66,19 @@ export class Game{
 		
 		//SOCKET.on("confirm_play", this.confirm_play.bind(this));
 		SOCKET.on( "spin", this.spin.bind(this) );
+	}
+	
+	setup_start(){
+		
+		this.assets.preload_text.text = "Cargado 100% \n\nPRESIONE PARA CONTINUAR";
+		
+		this.assets.preload.interactive = true;
+		this.assets.preload.buttonMode = true;
+		this.assets.preload.addListener('pointerdown', ()=>{
+			console.log("START GAME");
+			this.app.stage.removeChild(this.assets.preload);
+			this.setup_assets();
+		});
 	}
 	
 	setup_assets(){
